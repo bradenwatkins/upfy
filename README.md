@@ -6,7 +6,7 @@
   </a>
 </h1>
 <p align="center">Upfy</p>
-<p align="center"><code>curl -s https://raw.githubusercontent.com/rousan/upfy/master/up.sh  | bash && source ~/.bashrc</code></p>
+<p align="center"><code>curl -s https://raw.githubusercontent.com/bradenwatkins/upfy/master/up.sh  | bash && source ~/.bashrc</code></p>
 <br>
 
 # Upfy
