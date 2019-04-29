@@ -9,11 +9,14 @@ cd
 echo "Installing Homebrew"
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-echo "Installing Curl"
-brew install curl
-
 echo "Installing NodeJs & Yarn"
 brew install yarn
+
+echo "Installing Python"
+brew install python
+
+echo "Installing Curl"
+brew install curl
 
 echo "Installing Node Version Manager (NVM)"
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
